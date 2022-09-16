@@ -39,18 +39,18 @@
 <br>
 
 <h1 id="top">The Roadmap is divided into 12 Sections</h1>
-<a href="#part_1"><h3>1. Python Programming and Logic Building</h3></a>
-<a href="#part_2"><h3>2. Data Structure & Algorithms</h3></a>
-<a href="#part_3"><h3>3. Pandas, Numpy, Matplotlib</h3></a>
-<a href="#part_4"><h3>4. Statistics</h3></a>
-<a href="#part_5"><h3>5. Machine Learning</h3></a>
-<a href="#part_6"><h3>6. Natural Language Processing</h3></a>
-<a href="#part_7"><h3>7. Computer Vision</h3></a>
-<a href="#part_8"><h3>8. Data Visualization with Tableau</h3></a>
-<a href="#part_9"><h3>9. Structure Query Language (SQL)</h3></a>
-<a href="#part_10"><h3>10. Big Data and PySpark</h3></a>
-<a href="#part_11"><h3>11. Development Operations with Azure</h3></a>
-<a href="#part_12"><h3>12. Git</h3></a>
+<h3><a href="#part_1">1. Python Programming and Logic Building</a></h3>
+<h3><a href="#part_2">2. Data Structure & Algorithms</a></h3>
+<h3><a href="#part_3">3. Pandas, Numpy, Matplotlib</a></h3>
+<h3><a href="#part_4">4. Statistics</a></h3>
+<h3><a href="#part_5">5. Machine Learning</a></h3>
+<h3><a href="#part_6">6. Natural Language Processing</a></h3>
+<h3><a href="#part_7">7. Computer Vision</a></h3>
+<h3><a href="#part_8">8. Data Visualization with Tableau</a></h3>
+<h3><a href="#part_9">9. Structure Query Language (SQL)</a></h3>
+<h3><a href="#part_10">10. Big Data and PySpark</a></h3>
+<h3><a href="#part_11">11. Development Operations with Azure</a></h3>
+<h3><a href="#part_12">12. Git</a></h3>
 
 <h2 id="part_1">1. Python Programming and Logic Building</h2>
 
