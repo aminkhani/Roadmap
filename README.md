@@ -29,8 +29,7 @@
   <a href="https://github.com/aminkhani/Roadmap/issues/new?assignees=&labels=unlike&template=unlike.yml&title=%5BUNLIKE%5D%3A+">👎Dislike the repo</a>
   </p>
   </p>
-</div><br /><br />
-
+</div><br />
 </div>
 
 > **Note**
@@ -39,8 +38,7 @@
 
 > **Warning**
 >   
-> This is only a segguestion roadmap
-<br>
+> ❗️This is only a segguestion roadmap❗️
 <h1 id="top"></h1>
 <h3><a href="#part_1">1. Python Programming and Logic Building</a></h3>
 <h3><a href="#part_2">2. Data Structure & Algorithms</a></h3>
@@ -54,6 +52,7 @@
 <h3><a href="#part_10">10. Big Data and PySpark</a></h3>
 <h3><a href="#part_11">11. Development Operations with Azure</a></h3>
 <h3><a href="#part_12">12. Git</a></h3>
+<br>
 
 <h2 id="part_1">1. Python Programming and Logic Building</h2>
 
@@ -68,7 +67,8 @@ I will prefer Python Programming Language. Python is the best for starting your 
 - Object-Oriented Programming
 - Modules and Packages
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_2">2. Data Structure & Algorithms</h2>
 
@@ -87,7 +87,8 @@ Understand these topics:
 - Searching
 - Hashing
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_3">3. Pandas Numpy Matplotlib</h2>
 
@@ -114,7 +115,8 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - Label Parameters, Legend
 - Bar Chart, Pie Chart, Histogram, Scatter Plot
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_4">4. Statistics</h2>
 
@@ -142,7 +144,8 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - Chi-Square Test
 - Implementation of continuous and categorical data
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_5">5. Machine Learning</h2>
 
@@ -164,7 +167,8 @@ The best way to master machine learning algorithms is to work with the Scikit-Le
 - Predictive Analytics
 - Exploratory Data Analysis
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_6">6. Natural Language Processing</h2>
 
@@ -181,7 +185,8 @@ If you are interested in working with Text, you should do some of the work an NL
 - Building a text classifier
 - Identifying the gender
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_7">7. Computer Vision</h2>
 
@@ -204,7 +209,8 @@ To work on image and video analytics we can master computer vision. To work on c
 - Detecting corners
 - Detecting SIFT feature points
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_8">8. Data Visualization with Tableau</h2>
 
@@ -218,7 +224,8 @@ To work on image and video analytics we can master computer vision. To work on c
 - Advanced Charts, Calculated Fields, Calculated Aggregations
 - Conditional Calculation, Parameterized Calculation
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_9">9. Structure Query Language (SQL)</h2>
 
@@ -239,7 +246,8 @@ To work on image and video analytics we can master computer vision. To work on c
 - Complex Questions
 - Solving Interview Questions
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_10">10. BigData and PySpark</h2>
 
@@ -262,7 +270,8 @@ To work on image and video analytics we can master computer vision. To work on c
 ### Streaming
 - Packaging Spark Applications
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_11">11. Development Operations with Azure</h2>
 
@@ -285,8 +294,10 @@ To work on image and video analytics we can master computer vision. To work on c
 - Relational Database in Azure
 - Non-relational Database in Azure
   
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h2 id="part_12">12. Git</h2>
 
-<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+<div align="right"><a href="#" targert="_blacnk"><img src="https://img.shields.io/badge/Go to Course-green?style=for-the-badge&logo=plex&logoColor=white"/></a>
+<a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
