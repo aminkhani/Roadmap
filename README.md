@@ -1,0 +1,253 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/aminkhani-ai/" targert="_blacnk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:aminkhani2010@gmail.com" targert="_blacnk">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/aminkhani_ai" targert="_blacnk">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>  
+  <a href="https://www.instagram.com/aminkhani_ai/" targert="_blacnk">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://github.com/aminkhani/" targert="_blacnk">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <h1 align="center">🗺️ML Roadmap</h1>
+  <p align="center">
+    <h3>A personal roadmap to becoming an expert in Machine Learning</h3>
+    <br />
+    <a href="https://github.com/aminkhani/Roadmap/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">🐛Report Bug</a>
+   .
+   <a href="https://github.com/aminkhani/Roadmap/issues/new?assignees=&labels=question&template=question.yml&title=%5BQUESTION%5D%3A+">❓Ask Question</a>
+   .
+  <a href="https://github.com/aminkhani/Roadmap/issues/new?assignees=&labels=like&template=like.yml&title=%5BLIKE%5D%3A+">👍Like the repo</a>
+  .
+  <a href="https://github.com/aminkhani/Roadmap/issues/new?assignees=&labels=unlike&template=unlike.yml&title=%5BUNLIKE%5D%3A+">👎Dislike the repo</a>
+  </p>
+  </p>
+</div><br /><br />
+
+</div>
+
+> **Note**
+>
+> 📣 You can help to improve this repo, by giving me a **⭐star⭐** and **❤️following me❤️**
+<br>
+
+## The Roadmap is divided into 12 Sections
+1. Python Programming and Logic Building
+2. Data Structure & Algorithms
+3. Pandas, Numpy, Matplotlib
+4. Statistics
+5. Machine Learning
+6. Natural Language Processing
+7. Computer Vision
+8. Data Visualization with Tableau
+9. Structure Query Language (SQL)
+10. Big Data and PySpark
+11. Development Operations with Azure
+12. Five Major Projects and Git
+
+## 1 | Python Programming and Logic Building
+I will prefer Python Programming Language. Python is the best for starting your programming journey. Here is the roadmap of python for logic building.
+- Python basics, Variables, Operators, Conditional Statements
+- List and Strings
+- While Loop, Nested Loops, Loop Else
+- For Loop, Break, and Continue statements
+- Functions, Return Statement, Recursion
+- Dictionary, Tuple, Set
+- File Handling, Exception Handling
+- Object-Oriented Programming
+- Modules and Packages
+
+## 2 | Data Structure & Algorithms
+Data Structure is the most important thing to learn not only for data scientists but for all the people working in computer science. With data structure, you get an internal understanding of the working of everything in software.
+
+Understand these topics:
+
+- Types of Algorithm Analysis
+- Asymptotic Notation, Big-O, Omega, Theta
+- Stacks
+- Queues
+- Linked List
+- Trees
+- Graphs
+- Sorting
+- Searching
+- Hashing
+
+## 3 | Pandas Numpy Matplotlib
+Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Pandas is the best library for analysis. You can use other tools but tools have drag-and-drop features and have limitations. Pandas can be customized as per the need as we can code depending upon the real-life problem.
+### Numpy
+- Vectors, Matrix
+- Operations on Matrix
+- Mean, Variance, and Standard Deviation
+- Reshaping Arrays
+- Transpose and Determinant of Matrix
+- Diagonal Operations, Trace
+- Add, Subtract, Multiply, Dot, and Cross Product.
+### Pandas
+- Series and DataFrames
+- Slicing, Rows, and Columns
+- Operations on DataFrame
+- Different ways to create DataFrame
+- Read, Write Operations with CSV files
+- Handling Missing values, replace values, and Regular Expression
+- GroupBy and Concatenation
+### Matplotlib
+- Graph Basics
+- Format Strings in Plots
+- Label Parameters, Legend
+- Bar Chart, Pie Chart, Histogram, Scatter Plot
+
+## 4 | Statistics
+### Descriptive Statistics
+- Measure of Frequency and Central Tendency
+- Measure of Dispersion
+- Probability Distribution
+- Gaussian Normal Distribution
+- Skewness and Kurtosis
+- Regression Analysis
+- Continuous and Discrete Functions
+- Goodness of Fit
+- Normality Test
+- ANOVA
+- Homoscedasticity
+- Linear and Non-Linear Relationship with Regression
+### Inferential Statistics
+- t-Test
+- z-Test
+- Hypothesis Testing
+- Type I and Type II errors
+- t-Test and its types
+- One way ANOVA
+- Two way ANOVA
+- Chi-Square Test
+- Implementation of continuous and categorical data
+
+## 5 | Machine Learning
+The best way to master machine learning algorithms is to work with the Scikit-Learn framework. Scikit-Learn contains predefined algorithms and you can work with them just by generating the object of the class. These are the algorithm you must know including the types of Supervised and Unsupervised Machine Learning:
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Gradient Descent
+- Random Forest
+- Ridge and Lasso Regression
+- Naive Bayes
+- Support Vector Machine
+- KMeans Clustering
+### Other Concepts and Topics for ML
+- Measuring Accuracy
+- Bias-Variance Trade-off
+- Applying Regularization
+- Elastic Net Regression
+- Predictive Analytics
+- Exploratory Data Analysis
+### 6 | Natural Language Processing
+If you are interested in working with Text, you should do some of the work an NLP Engineer do and understand the working of Language models.
+- Sentiment analysis
+- POS Tagging, Parsing,
+- Text preprocessing
+- Stemming and Lemmatization
+- Sentiment classification using Naive Bayes
+- TF-IDF, N-gram,
+- Machine Translation, BLEU Score
+- Text Generation, Summarization, ROUGE Score
+- Language Modeling, Perplexity
+- Building a text classifier
+- Identifying the gender
+
+### 7 | Computer Vision
+To work on image and video analytics we can master computer vision. To work on computer vision we have to understand images.
+- PyTorch, Tensors
+- Understanding Pretrained models like AlexNet, ImageNet, ResNet.
+- Neural Networks
+- Building a perceptron
+- Building a single layer neural network
+- Building a deep neural network
+- Recurrent neural network for sequential data analysis
+### Convolutional Neural Networks
+- Understanding the ConvNet topology
+- Convolution layers
+- Pooling layers
+- Image Content Analysis
+- Operating on images using OpenCV-Python
+- Detecting edges
+- Histogram equalization
+- Detecting corners
+- Detecting SIFT feature points
+
+## 8 | Data Visualization with Tableau
+- How to use it Visual Perception
+- What is it, How it works, Why Tableau
+- Connecting to Data
+- Building charts
+- Calculations
+- Dashboards
+- Sharing our work
+- Advanced Charts, Calculated Fields, Calculated Aggregations
+- Conditional Calculation, Parameterized Calculation
+
+## 9 | Structure Query Language (SQL)
+- Setup SQL server
+- Basics of SQL
+- Writing queries
+- Data Types
+- Select
+- Creating and deleting tables
+- Filtering data
+- Order
+- Aggregations
+- Truncate
+- Primary Key
+- Foreign Key
+- Union
+- MySQL
+- Complex Questions
+- Solving Interview Questions
+
+## 10 | BigData and PySpark
+### BigData
+What is BigData?
+- How is BigData applied within Business?
+### PySpark- 
+- Resilient Distributed Datasets
+- Schema
+- Lambda Expressions
+- Transformations
+- Actions
+### Data Modeling
+- Duplicate Data
+- Descriptive Analysis on Data
+- Visualizations
+- ML lib
+- ML Packages
+- Pipelines
+### Streaming
+- Packaging Spark Applications
+
+## 11 | Development Operations with Azure
+- Foundation of Data Systems
+- Data Models
+- Storage
+- Encoding
+- Distributed Data
+- Replication
+- Partitioning
+- Derived Data
+- Batch Processing
+- Stream Processing
+- Microsoft Azure
+- Azure Data Workloads
+- Azure Data Factory
+- Azure HDInsights
+- Azure Databricks
+- Azure Synapse Analytics
+- Relational Database in Azure
+- Non-relational Database in Azure
+
+## Git
