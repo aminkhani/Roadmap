@@ -38,21 +38,22 @@
 > 📣 You can help to improve this repo, by giving me a **⭐star⭐** and **❤️following me❤️**
 <br>
 
-## The Roadmap is divided into 12 Sections
-1. Python Programming and Logic Building
-2. Data Structure & Algorithms
-3. Pandas, Numpy, Matplotlib
-4. Statistics
-5. Machine Learning
-6. Natural Language Processing
-7. Computer Vision
-8. Data Visualization with Tableau
-9. Structure Query Language (SQL)
-10. Big Data and PySpark
-11. Development Operations with Azure
-12. Five Major Projects and Git
+<h1 id="top">The Roadmap is divided into 12 Sections</h1>
+<a href="#part_1"><h3>1. Python Programming and Logic Building</h3></a>
+<a href="#part_2"><h3>2. Data Structure & Algorithms</h3></a>
+<a href="#part_3"><h3>3. Pandas, Numpy, Matplotlib</h3></a>
+<a href="#part_4"><h3>4. Statistics</h3></a>
+<a href="#part_5"><h3>5. Machine Learning</h3></a>
+<a href="#part_6"><h3>6. Natural Language Processing</h3></a>
+<a href="#part_7"><h3>7. Computer Vision</h3></a>
+<a href="#part_8"><h3>8. Data Visualization with Tableau</h3></a>
+<a href="#part_9"><h3>9. Structure Query Language (SQL)</h3></a>
+<a href="#part_10"><h3>10. Big Data and PySpark</h3></a>
+<a href="#part_11"><h3>11. Development Operations with Azure</h3></a>
+<a href="#part_12"><h3>12. Git</h3></a>
 
-## 1 | Python Programming and Logic Building
+<h2 id="part_1">1. Python Programming and Logic Building</h2>
+
 I will prefer Python Programming Language. Python is the best for starting your programming journey. Here is the roadmap of python for logic building.
 - Python basics, Variables, Operators, Conditional Statements
 - List and Strings
@@ -64,7 +65,10 @@ I will prefer Python Programming Language. Python is the best for starting your 
 - Object-Oriented Programming
 - Modules and Packages
 
-## 2 | Data Structure & Algorithms
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_2">2. Data Structure & Algorithms</h2>
+
 Data Structure is the most important thing to learn not only for data scientists but for all the people working in computer science. With data structure, you get an internal understanding of the working of everything in software.
 
 Understand these topics:
@@ -80,7 +84,10 @@ Understand these topics:
 - Searching
 - Hashing
 
-## 3 | Pandas Numpy Matplotlib
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_3">3. Pandas Numpy Matplotlib</h2>
+
 Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Pandas is the best library for analysis. You can use other tools but tools have drag-and-drop features and have limitations. Pandas can be customized as per the need as we can code depending upon the real-life problem.
 ### Numpy
 - Vectors, Matrix
@@ -104,7 +111,10 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - Label Parameters, Legend
 - Bar Chart, Pie Chart, Histogram, Scatter Plot
 
-## 4 | Statistics
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_4">4. Statistics</h2>
+
 ### Descriptive Statistics
 - Measure of Frequency and Central Tendency
 - Measure of Dispersion
@@ -129,7 +139,10 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - Chi-Square Test
 - Implementation of continuous and categorical data
 
-## 5 | Machine Learning
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_5">5. Machine Learning</h2>
+
 The best way to master machine learning algorithms is to work with the Scikit-Learn framework. Scikit-Learn contains predefined algorithms and you can work with them just by generating the object of the class. These are the algorithm you must know including the types of Supervised and Unsupervised Machine Learning:
 - Linear Regression
 - Logistic Regression
@@ -147,7 +160,11 @@ The best way to master machine learning algorithms is to work with the Scikit-Le
 - Elastic Net Regression
 - Predictive Analytics
 - Exploratory Data Analysis
-### 6 | Natural Language Processing
+
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_6">6. Natural Language Processing</h2>
+
 If you are interested in working with Text, you should do some of the work an NLP Engineer do and understand the working of Language models.
 - Sentiment analysis
 - POS Tagging, Parsing,
@@ -161,7 +178,10 @@ If you are interested in working with Text, you should do some of the work an NL
 - Building a text classifier
 - Identifying the gender
 
-### 7 | Computer Vision
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_7">7. Computer Vision</h2>
+
 To work on image and video analytics we can master computer vision. To work on computer vision we have to understand images.
 - PyTorch, Tensors
 - Understanding Pretrained models like AlexNet, ImageNet, ResNet.
@@ -181,7 +201,10 @@ To work on image and video analytics we can master computer vision. To work on c
 - Detecting corners
 - Detecting SIFT feature points
 
-## 8 | Data Visualization with Tableau
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_8">8. Data Visualization with Tableau</h2>
+
 - How to use it Visual Perception
 - What is it, How it works, Why Tableau
 - Connecting to Data
@@ -192,7 +215,10 @@ To work on image and video analytics we can master computer vision. To work on c
 - Advanced Charts, Calculated Fields, Calculated Aggregations
 - Conditional Calculation, Parameterized Calculation
 
-## 9 | Structure Query Language (SQL)
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_9">9. Structure Query Language (SQL)</h2>
+
 - Setup SQL server
 - Basics of SQL
 - Writing queries
@@ -210,7 +236,10 @@ To work on image and video analytics we can master computer vision. To work on c
 - Complex Questions
 - Solving Interview Questions
 
-## 10 | BigData and PySpark
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_10">10. BigData and PySpark</h2>
+
 ### BigData
 What is BigData?
 - How is BigData applied within Business?
@@ -230,7 +259,10 @@ What is BigData?
 ### Streaming
 - Packaging Spark Applications
 
-## 11 | Development Operations with Azure
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
+
+<h2 id="part_11">11. Development Operations with Azure</h2>
+
 - Foundation of Data Systems
 - Data Models
 - Storage
@@ -249,5 +281,9 @@ What is BigData?
 - Azure Synapse Analytics
 - Relational Database in Azure
 - Non-relational Database in Azure
+  
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
 
-## Git
+<h2 id="part_12">12. Git</h2>
+
+<div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" alt="up Badge"/></a></div>
