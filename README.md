@@ -36,9 +36,12 @@
 > **Note**
 >
 > 📣 You can help to improve this repo, by giving me a **⭐star⭐** and **❤️following me❤️**
-<br>
 
-<h1 id="top">The Roadmap is divided into 12 Sections</h1>
+> **Warning**
+>   
+> This is only a segguestion roadmap
+<br>
+<h1 id="top"></h1>
 <h3><a href="#part_1">1. Python Programming and Logic Building</a></h3>
 <h3><a href="#part_2">2. Data Structure & Algorithms</a></h3>
 <h3><a href="#part_3">3. Pandas, Numpy, Matplotlib</a></h3>
@@ -241,9 +244,9 @@ To work on image and video analytics we can master computer vision. To work on c
 <h2 id="part_10">10. BigData and PySpark</h2>
 
 ### BigData
-What is BigData?
+- What is BigData?
 - How is BigData applied within Business?
-### PySpark- 
+### PySpark
 - Resilient Distributed Datasets
 - Schema
 - Lambda Expressions
